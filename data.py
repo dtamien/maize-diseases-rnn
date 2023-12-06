@@ -12,6 +12,7 @@ set_seed()
 # Loading dataset
 dataset = ImageFolder(root=data_dir, transform=normalization_transform)
 num_classes = len(dataset.classes)
+classes = dataset.classes
 
 # Data splitting
 train_data, valid_data, test_data = train_valid_test_random_split(
