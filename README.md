@@ -1,4 +1,4 @@
-~~CCN -> RNN
+~~CCN~~ --> RNN
 
 # Classification des maladies du maïs
 
