@@ -1,3 +1,5 @@
+~~CCN -> RNN
+
 # Classification des maladies du maïs
 
 ## Description du projet
